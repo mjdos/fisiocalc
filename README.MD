@@ -5,15 +5,20 @@
 ## Aplicativo FISIOCALC: Inovação Tecnológica
 
 ### Introdução
-A área de nefrologia, vital para o tratamento e acompanhamento de doenças renais, enfrenta desafios significativos em termos de gerenciamento de dados de pacientes. Com o advento de novas tecnologias, surge o BRCHAIN, um protótipo web que promete revolucionar a forma como esses dados são geridos, armazenados e protegidos.
+O aplicativo "FisioCalc" auxilia profissionais de saúde com pacientes críticos, oferecendo cálculos rápidos e precisos, sem substituir a análise clínica.
 
 ### Desenvolvimento
-O BRCHAIN foi desenvolvido utilizando Laravel, um framework PHP robusto e moderno, conhecido por sua capacidade de criar aplicações web complexas de forma eficiente. Esta escolha tecnológica não apenas garante uma base sólida para o desenvolvimento do protótipo, mas também proporciona uma plataforma flexível e escalável.
-<br>
-Paralelamente, a integração com a HyperLedger Fabric, uma plataforma de blockchain privada, é um dos aspectos mais inovadores do BRCHAIN. A HyperLedger Fabric é reconhecida por sua segurança aprimorada, desempenho e capacidades de modularidade, sendo ideal para aplicações empresariais que exigem privacidade e confidencialidade.
+O FISIOCALC foi desenvolvido utilizando a tecnologia Flutter.
 
-### Gerenciamento Eficiente de Dados de Nefrologia
-O foco principal desse protótipo é melhorar o gerenciamento de dados na área de nefrologia. Com ele, os profissionais de saúde podem inserir, acessar e gerenciar informações dos pacientes de maneira mais eficiente e segura. Isso inclui dados clínicos, históricos de tratamentos, resultados de exames e outras informações relevantes ao cuidado renal.
+### Download
+Baixe o Fisio Calc diretamente na sua loja de aplicativos favorita e leve praticidade e eficiência para sua rotina clínica.
+<br><br>
+Download na Apple Store<br>
+<a href="https://apps.apple.com/us/app/fisio-calc/id6736763156">https://apps.apple.com/us/app/fisio-calc/id6736763156</a>
+<br><br>
+Download na Google<br>
+<a href="https://play.google.com/store/apps/details?id=br.med.fisioterapiarespiratoria">https://play.google.com/store/apps/details?id=br.med.fisioterapiarespiratoria</a>
+<br><br>
 
 ### Segurança e Privacidade Através da Blockchain
 A utilização da blockchain privada proporciona um nível de segurança e privacidade incomparável. Cada transação de dados realizada no BRCHAIN será registrada na blockchain, criando um histórico imutável e auditável. Isso não apenas assegura a integridade dos dados, mas também protege contra acessos não autorizados e fraudes.
