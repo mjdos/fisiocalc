@@ -22,43 +22,45 @@ O **FisioCalc** é um aplicativo inovador para profissionais da saúde que lidam
 ## 📥 Download
 
 Baixe agora o **FisioCalc** e leve mais eficiência para sua prática clínica! 
+v<img src="https://github.com/mjdos/fisiocalc/blob/main/baixe.png" width="400" alt="Download FisioCalc">
 
-[![Download na Apple Store](https://github.com/mjdos/fisiocalc/blob/main/baixe.png)](https://apps.apple.com/us/app/fisio-calc/id6736763156)  
 🔗 [Apple Store](https://apps.apple.com/us/app/fisio-calc/id6736763156)  
 🔗 [Google Play](https://play.google.com/store/apps/details?id=br.med.fisioterapiarespiratoria)
 
 
 
-## 📸 Screenshots
+## 🏥 Tela Inicial
 
-### 🏥 Tela Inicial
 <img src="https://github.com/mjdos/fisiocalc/blob/main/tela-inicial-fisiocalc-a.png" width="600" alt="Tela Inicial FisioCalc">
 <img src="https://github.com/mjdos/fisiocalc/blob/main/tela-inicial-fisiocalc-b.png" width="600" alt="Tela Inicial FisioCalc">
 
-### 👶 Neonatologia
-Com 7 ferramentas, essa categoria apresenta cálculos e indicadores focados em pacientes neonatais, auxiliando na avaliação de condições críticas do período neonatal.
+## 👶 Neonatologia
+
+Com 7 ferramentas, essa categoria apresenta cálculos e indicadores focados em pacientes neonatais, auxiliando na avaliação de condições críticas do período neonatal.<br>
 <img src="https://github.com/mjdos/fisiocalc/blob/main/neonatologia-no-fisiocalc.png" width="600" alt="Neonatologia">
 
-### 🩺 Gasometria Arterial e Oxigenação
-Com 7 ferramentas, essa categoria apresenta ferramentas essenciais para avaliar a oxigenação e trocas gasosas, especialmente em pacientes com insuficiência respiratória.
+## 🩺 Gasometria Arterial e Oxigenação
+
+Com 7 ferramentas, essa categoria apresenta ferramentas essenciais para avaliar a oxigenação e trocas gasosas, especialmente em pacientes com insuficiência respiratória.<br>
 <img src="https://github.com/mjdos/fisiocalc/blob/main/gasometria-arterial-e-oxigenacao-no-fisiocalc.png" width="600" alt="Gasometria Arterial">
 
-### 💨 Ventilação Mecânica
-Com 9 ferramentas, essa categoria foca no ajuste da ventilação mecânica e na análise da mecânica pulmonar, como volumes, pressões e resistências, essenciais para pacientes em ventilação mecânica.
+## 💨 Ventilação Mecânica
+
+Com 9 ferramentas, essa categoria foca no ajuste da ventilação mecânica e na análise da mecânica pulmonar, como volumes, pressões e resistências, essenciais para pacientes em ventilação mecânica.<br>
 <img src="https://github.com/mjdos/fisiocalc/blob/main/ventilacao-mecanica-no-fisiocalc.png" width="600" alt="Ventilação Mecânica">
 
-### ✨ Função Pulmonar
-Avalie a eficiência da respiração com ferramentas que ajudam a identificar condições respiratórias crônicas ou agudas de forma prática e confiável. Um suporte valioso para decisões clínicas mais seguras!
+## ✨ Função Pulmonar
+
+Avalie a eficiência da respiração com ferramentas que ajudam a identificar condições respiratórias crônicas ou agudas de forma prática e confiável. Um suporte valioso para decisões clínicas mais seguras!<br>
 <img src="https://github.com/mjdos/fisiocalc/blob/main/funcao-pulmonar-no-fisiocalc.png" width="600" alt="Função Pulmonar">
 
-### 📊 Cálculos Clínicos Gerais
-Com cálculos que vão além do sistema respiratório, o Fisio Calc ajuda a avaliar o estado geral do paciente, incluindo aspectos como saúde cardiovascular, peso predito e outros fatores essenciais na terapia intensiva. Um aliado indispensável na prática clínica!
-<img src="https://github.com/mjdos/fisiocalc/blob/main/calculos-clinicos-gerais.png" width="600" alt="Cálculos Clínicos Gerais">
+## 📊 Cálculos Clínicos Gerais
 
+Com cálculos que vão além do sistema respiratório, o Fisio Calc ajuda a avaliar o estado geral do paciente, incluindo aspectos como saúde cardiovascular, peso predito e outros fatores essenciais na terapia intensiva. Um aliado indispensável na prática clínica!<br>
+<img src="https://github.com/mjdos/fisiocalc/blob/main/calculos-clinicos-gerais.png" width="600" alt="Cálculos Clínicos Gerais">
 
 ## 📝 Licença
 
 O **FisioCalc** é um software open-source licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
 
 📌 Desenvolvido por Marcelo Santos (https://github.com/mjdos). Entre em contato comigo no [GitHub](https://github.com/mjdos)!
-
