@@ -42,7 +42,7 @@ Com 9 ferramentas, essa categoria foca no ajuste da ventilação mecânica e na 
 
 ✨ Função Pulmonar e Índices Respiratórios
 São 5 ferramentas voltadas para medir a eficiência respiratória e identificar condições respiratórias crônicas ou agudas.
-
+<br>
 
 ## Neonatologia
 
@@ -50,7 +50,7 @@ São 5 ferramentas voltadas para medir a eficiência respiratória e identificar
 
 Os primeiros dias de vida são cruciais, e com o Fisio Calc, você tem acesso a ferramentas indispensáveis para a avaliação e cuidado com pacientes neonatais. Nossos cálculos foram projetados para oferecer suporte rápido e confiável no acompanhamento de condições críticas! 🩺✨
 
-<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/neonatologia-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/neonatologia-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div><br>
 
 
 ## Gasometria Arterial e Oxigenação
@@ -59,7 +59,7 @@ Os primeiros dias de vida são cruciais, e com o Fisio Calc, você tem acesso a 
 
 Com ferramentas focadas na avaliação da oxigenação e das trocas gasosas, o Fisio Calc é um grande aliado no cuidado de pacientes com insuficiência respiratória. Tenha em mãos cálculos essenciais para auxiliar nas decisões clínicas com praticidade e eficiência!
 
-<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/gasometria-arterial-e-oxigenacao-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/gasometria-arterial-e-oxigenacao-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div><br>
 
 ## Ventilação Mecânica
 
@@ -67,7 +67,7 @@ Com ferramentas focadas na avaliação da oxigenação e das trocas gasosas, o F
 
 Conte com ferramentas essenciais para o ajuste da ventilação mecânica e análise da mecânica pulmonar, incluindo volumes, pressões e resistências. Um suporte indispensável no cuidado de pacientes ventilados, com praticidade e precisão!
 
-<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/ventilacao-mecanica-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/ventilacao-mecanica-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div><br>
 
 ## Função Pulmonar
 
@@ -75,9 +75,7 @@ Conte com ferramentas essenciais para o ajuste da ventilação mecânica e anál
 
 Avalie a eficiência da respiração com ferramentas que ajudam a identificar condições respiratórias crônicas ou agudas de forma prática e confiável. Um suporte valioso para decisões clínicas mais seguras!
 
-<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/funcao-pulmonar-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
-
-
+<div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/funcao-pulmonar-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div><br>
 
 ## Cálculos Clínicos Gerais
 
