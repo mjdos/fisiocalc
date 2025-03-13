@@ -2,12 +2,12 @@
 
 <br>
 
-# 📱 FisioCalc - Precisão e Agilidade para Profissionais de Saúde
+## 📱 FisioCalc - Precisão e Agilidade para Profissionais de Saúde
 
 **Desenvolvido por Marcelo Santos (https://github.com/mjdos)**
 
 O **FisioCalc** é um aplicativo inovador para profissionais da saúde que lidam com pacientes críticos, oferecendo cálculos rápidos e precisos para auxiliar na tomada de decisão clínica. Com uma interface intuitiva e ferramentas especializadas, o FisioCalc é um aliado essencial na rotina hospitalar.
-
+<br>
 
 ## 🚀 Recursos Principais
 
@@ -17,7 +17,7 @@ O **FisioCalc** é um aplicativo inovador para profissionais da saúde que lidam
 ✅ **Ventilação Mecânica e Complacência:** 9 ferramentas para ajustes e monitoramento  
 ✅ **Função Pulmonar e Índices Respiratórios:** 5 ferramentas para diagnóstico respiratório  
 ✅ **Cálculos Clínicos Gerais:** Indicadores para suporte à terapia intensiva  
-
+<br>
 
 ## 📥 Download
 
@@ -26,8 +26,7 @@ Baixe agora o **FisioCalc** e leve mais eficiência para sua prática clínica! 
 
 🔗 [Apple Store](https://apps.apple.com/us/app/fisio-calc/id6736763156)  
 🔗 [Google Play](https://play.google.com/store/apps/details?id=br.med.fisioterapiarespiratoria)
-
-
+<br>
 
 ## 🏥 Tela Inicial
 
