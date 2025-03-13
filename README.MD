@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/mjdos/fisiocalc/logo.jpg" width="150" alt="FISIOCALC"></p>
+<p align="center"><img src="https://github.com/mjdos/fisiocalc/blob/main/logo.jpg" width="150" alt="FISIOCALC"></p>
 
 <br>
 
