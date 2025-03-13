@@ -10,7 +10,7 @@ O aplicativo "FisioCalc" auxilia profissionais de saúde com pacientes críticos
 ### Desenvolvimento
 O FISIOCALC foi desenvolvido utilizando a tecnologia Flutter.
 
-### Download
+## Download
 Baixe o Fisio Calc diretamente na sua loja de aplicativos favorita e leve praticidade e eficiência para sua rotina clínica.
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/baixe.png" width="400" alt="FISIOCALC"></td></tr></table></div>
 <br><br>
@@ -22,9 +22,8 @@ Download na Google<br>
 <br><br>
 
 
-## Telas do Aplicativo
+## Tela Inicial do Aplicativo
 
-### Tela Inicial
 Nosso aplicativo disponibiliza 34 ferramentas exclusivas, projetadas para atender às necessidades dos profissionais de saúde especializados em Fisioterapia Respiratória. Entre elas, destacam-se recursos voltados para cálculos, além de ferramentas essenciais nas áreas de Gasometria Arterial, Oxigenação e Neonatologia. No total, são 14 ferramentas desenvolvidas para tornar o atendimento mais ágil, prático e eficiente. 💡
 
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/tela-inicial-fisiocalc-a.png" width="600" alt="FISIOCALC"></td></tr></table></div>
@@ -45,7 +44,7 @@ Com 9 ferramentas, essa categoria foca no ajuste da ventilação mecânica e na 
 São 5 ferramentas voltadas para medir a eficiência respiratória e identificar condições respiratórias crônicas ou agudas.
 
 
-### Neonatologia
+## Neonatologia
 
 👶💜 Ferramentas essenciais para Neonatologia no FisioCalc
 
@@ -54,7 +53,7 @@ Os primeiros dias de vida são cruciais, e com o Fisio Calc, você tem acesso a 
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/neonatologia-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
 
 
-### Gasometria Arterial e Oxigenação
+## Gasometria Arterial e Oxigenação
 
 🩺💨 Gasometria Arterial e Oxigenação no Fisio Calc
 
@@ -62,7 +61,7 @@ Com ferramentas focadas na avaliação da oxigenação e das trocas gasosas, o F
 
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/gasometria-arterial-e-oxigenacao-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
 
-### Ventilação Mecânica
+## Ventilação Mecânica
 
 💨🛠️ Ventilação Mecânica no Fisio Calc
 
@@ -70,7 +69,7 @@ Conte com ferramentas essenciais para o ajuste da ventilação mecânica e anál
 
 <div align="center"><table borde=1><tr><td><img src="https://github.com/mjdos/fisiocalc/blob/main/ventilacao-mecanica-no-fisiocalc.png" width="600" alt="FISIOCALC"></td></tr></table></div>
 
-### Função Pulmonar
+## Função Pulmonar
 
 ✨ Função Pulmonar no Fisio Calc
 
@@ -80,7 +79,7 @@ Avalie a eficiência da respiração com ferramentas que ajudam a identificar co
 
 
 
-### Cálculos Clínicos Gerais
+## Cálculos Clínicos Gerais
 
 🩺✨ Avaliação Geral no Fisio Calc
 
